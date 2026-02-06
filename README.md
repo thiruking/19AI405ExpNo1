@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
+<h3>Name: THIRUMALAI K N</h3>
 <h3>Register Number/Staff Id: TSML006</h3>
 
 
@@ -104,6 +104,8 @@ if __name__ == "__main__":
 
 
 ## OUTPUT :
+
+<img width="842" height="205" alt="image" src="https://github.com/user-attachments/assets/75c07639-71d5-4372-8282-b8f5e6e98691" />
 
 
 ## RESULT : 
